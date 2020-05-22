@@ -4,9 +4,9 @@ title: '3D Object Classification'
 github: ''
 external: ''
 tech:
-  - Gatsby
-  - TypeScript
-  - Algolia
+  - Keras
+  - Python
+  - CNN
 company: 'Upstatement'
 showInProjects: true
 ---

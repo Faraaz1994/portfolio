@@ -4,8 +4,10 @@ title: 'Twitter Simulation'
 github: 'https://github.com/shailesh-nyk/Twitter_SANAF'
 external: ''
 tech:
-  - HTML
-  - SCSS
+  - React
+  - Redis
+  - MongoDB
+  - Kafka
 company: 'Academic Project'
 showInProjects: true
 ---

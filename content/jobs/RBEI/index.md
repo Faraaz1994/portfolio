@@ -1,7 +1,7 @@
 ---
 date: '2017-12-21'
 title: 'Associate Software Engineer'
-company: 'Robert Bosch Engineering and Business Solutions'
+company : 'Robert Bosch Engineering and Business Solutions'
 location: 'Bangalore, India'
 range: 'June 2017 - April 2019'
 url: 'https://www.bosch-india-software.com/en/our-company/about-us/'

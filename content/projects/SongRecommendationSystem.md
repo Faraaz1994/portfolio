@@ -4,9 +4,9 @@ title: 'Song Recommendation System'
 github: ''
 external: ''
 tech:
-  - Algolia
-  - WordPress
-  - PHP
+  - Surprise
+  - SVD
+  - Python
 showInProjects: true
 ---
 - Built a song recommendation system using Surprise library.

@@ -4,9 +4,11 @@ title: 'GrubHub Prototype'
 github: 'https://github.com/Faraaz1994/Lab1-14351779'
 external: ''
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - React
+  - Bootstrap
+  - Mysql
+  - Docker
+  - AWS
 company: ''
 showInProjects: true
 ---

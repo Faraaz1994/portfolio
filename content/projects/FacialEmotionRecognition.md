@@ -4,9 +4,9 @@ title: 'Facial Emotion Recognition'
 github: 'https://github.com/Faraaz1994/CMPE255'
 external: ''
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Keras
+  - Tensorflow
+  - OpenCV
 showInProjects: true
 ---
 

@@ -223,9 +223,9 @@ const Jobs = ({ data }) => {
         {data &&
           data.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { title, url, company, range } = frontmatter;
+            const { title, url, company,company_full, range } = frontmatter;
             return (
-              <StyledTabContent
+              <StyledTabContent 
                 key={i}
                 isActive={activeTabId === i}
                 id={`panel-${i}`}
