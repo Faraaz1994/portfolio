@@ -1,7 +1,7 @@
 import React from 'react';
 
 const IconLoader = () => (
-  <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  /*<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
     <title>Loader Logo</title>
     <g>
       <g id="B" transform="translate(11.000000, 5.000000)">
@@ -22,6 +22,14 @@ const IconLoader = () => (
                   L 89, 73
                   L 89, 28 z"
       />
+    </g>
+  </svg>*/
+  <svg id="logo" width="60" height="60" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <title>Loader Logo</title>
+    <g>
+      <g id="B" transform="translate(11.000000, 5.000000)" stroke-linecap="round" fill-rule="evenodd" font-size="9pt" stroke="#ffffff" stroke-width="0.25mm" style={{ stroke: "#ffffff", strokeWidth: "0.25mm", fill: "none" }}>
+        <path d="M 78.125 0 L 77.734 39.941 L 66.113 9.18 L 40.723 11.523 L 40.137 36.816 L 48.535 36.23 L 58.594 18.359 L 57.715 64.063 L 47.852 47.07 L 39.941 46.484 L 39.551 68.164 L 61.133 77.344 L 3.125 77.148 A 718.142 718.142 0 0 0 13.477 72.559 A 188.94 188.94 0 0 1 24.023 68.164 L 22.461 13.965 A 174.247 174.247 0 0 1 11.23 10.254 A 569.634 569.634 0 0 0 0 6.25 A 6774.554 6774.554 0 0 0 39.063 3.027 A 2498.597 2498.597 0 0 1 78.125 0 Z" vector-effect="non-scaling-stroke" fill="currentColor" />
+      </g>
     </g>
   </svg>
 );

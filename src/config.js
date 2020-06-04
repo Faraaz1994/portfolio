@@ -4,10 +4,10 @@ module.exports = {
     'Faraaz Ahmed is a software engineer!!',
   siteKeywords:
     'Faraaz Ahmed, Faraaz, Ahmed, software engineer, front-end engineer, web developer, javascript, SJSU, computer vision',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://faraaz-ahmed.netlify.app/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  //googleAnalyticsID: 'UA-45666519-2',
+  //googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Faraaz Ahmed',
   location: 'San Jose, CA',
   email: 'faraazahmed1994@gmail.com',

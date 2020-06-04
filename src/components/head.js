@@ -25,8 +25,8 @@ const Head = ({ metadata }) => (
     <title itemProp="name" lang="en">
       {metadata.title}
     </title>
-    <link rel="shortcut icon" href={favicon} />
-    <link rel="canonical" href="https://brittanychiang.com" />
+    {/* <link rel="shortcut icon" href={favicon} />
+    <link rel="canonical" href="https://faraaz-ahmed.netlify.app/" />
 
     <meta name="description" content={metadata.description} />
     <meta name="keywords" content={config.siteKeywords} />
@@ -36,10 +36,10 @@ const Head = ({ metadata }) => (
     <meta property="og:type" content="website" />
     <meta property="og:url" content={metadata.siteUrl} />
     <meta property="og:site_name" content={metadata.title} />
-    <meta property="og:image" content={`${config.siteUrl}${ogImage}`} />
+    <meta property="og:image" content={`${config.siteUrl}${ogImage}`} /> 
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:type" content="image/png" /> 
     <meta property="og:locale" content={config.siteLanguage} />
     <meta itemProp="name" content={metadata.title} />
     <meta itemProp="description" content={metadata.description} />
@@ -68,7 +68,7 @@ const Head = ({ metadata }) => (
     <link rel="icon" type="image/png" sizes="16x16" href={favicon16x16} />
     <meta name="msapplication-TileColor" content={config.colors.navy} />
     <meta name="msapplication-TileImage" content={msIcon144x144} />
-    <meta name="theme-color" content={config.colors.navy} />
+    <meta name="theme-color" content={config.colors.navy} /> */}
   </Helmet>
 );
 
